@@ -6,4 +6,4 @@ Vain neuroverkon python-toteutus ja ohje sen käyttöön on sijoitettu tähän a
 ## Linkit dokumentteihin
 
 - [Ohje](/Neuroverkko/Ohje.py)
-- [Neuroverkon pyhton-toteutus ](/Neuroverkko/neuro_SGD.py.py)
+- [Neuroverkon pyhton-toteutus ](/Neuroverkko/neuro_SGD.py)
